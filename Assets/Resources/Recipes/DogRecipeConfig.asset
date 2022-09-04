@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 53729521d6c7d4f839ab6858cb01440f, type: 3}
+  m_Name: DogRecipeConfig
+  m_EditorClassIdentifier: 
+  _ingredientsList:
+  - _itemType: 3
+    _number: 1
+  - _itemType: 4
+    _number: 1
+  - _itemType: 5
+    _number: 1
+  _resultItems:
+  - _itemType: 8
+    _number: 1
